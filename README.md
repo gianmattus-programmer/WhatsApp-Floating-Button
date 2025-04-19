@@ -127,10 +127,4 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 🙏 Agradecimientos
-
-* A la comunidad de GitHub por su apoyo
-* A jsDelivr por proporcionar un servicio CDN gratuito
-* A WhatsApp por facilitar la integración con su plataforma
-
 ¡Empieza a utilizar este botón flotante y facilita que tus visitantes te contacten por WhatsApp! Recuerda modificar el número de WhatsApp en el archivo para que apunte al tuyo.
